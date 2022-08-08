@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @haeriskuedic
+- 💻 SAPUI5 and ABAP developer
 - 🌱 I’m currently learning React, Express, MongoDB and later Vue.js, Kotlin & Java with Spring
 - 💫 My vision is creating a minimalistic and futuristic marketplace. In this work i will apply new skills i have learned
 - 📫 haris.kudic@tranced.de
